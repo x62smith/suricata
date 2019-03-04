@@ -273,7 +273,7 @@ Format::
   byte_test:<num of bytes>, [!]<operator>, <test value>, <offset> [,relative] \
   [,<endian>][, string, <num type>][, dce][, bitmask <bitmask value>];
 
-
+ 
 +----------------+------------------------------------------------------------------------------+
 | <num of bytes> | The number of bytes selected from the packet to be converted			|
 +----------------+------------------------------------------------------------------------------+
